@@ -1,0 +1,21 @@
+body {
+    width: 300%;
+    margin: 30px;
+    background-color: orchid;
+
+}
+#profile-container{
+    max-width: 870px;
+    background-color: white;
+    border: 10px solid black;
+    border-radius:6px;
+
+}
+#profile-image{
+    width: 100%;
+    height: auto;
+}
+#profile-name{
+    text-align: center;
+
+}
